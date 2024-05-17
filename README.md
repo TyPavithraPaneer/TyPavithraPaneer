@@ -27,3 +27,22 @@ Now, I am focusing on <b>Full Stack Web Development </b> and wish to explore man
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
+
+<br/>
+<h1 align="center">Projects</h1>
+
+|                                          Project Name                                          | Description                                                                                                                                                                                                                                                        |
+| :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    [My Portfolio Website]()     | Portfolio website build using HTML5, CSS3 and JavaScript.  
+
+<h1 align="center">Let's Get Connected</h1>
+
+<div align="center">
+
+<a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="" target="_blank"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
